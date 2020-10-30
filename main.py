@@ -1,5 +1,5 @@
 import time
-print("Codez par Remi_ByPass#7867")
+print("Codez par rxmii6z#7867")
 print("Ajoutez un temps de décompte (en seconde)")
 decompte = float(input("Nombres de secondes = "))
 time.sleep(1)
